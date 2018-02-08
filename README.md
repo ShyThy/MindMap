@@ -1,3 +1,3 @@
 # MindMap
 Hi,My Mind Maps
-Hello.
+Hello mind.
