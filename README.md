@@ -1,2 +1,3 @@
 # MindMap
-my mind maps
+My Mind Maps
+Hello.
